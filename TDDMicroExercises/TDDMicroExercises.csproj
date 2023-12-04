@@ -46,6 +46,7 @@
     <Compile Include="LeaderBoard\Race.cs" />
     <Compile Include="LeaderBoard\SelfDrivingCar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TelemetrySystem\ITelemetryClient.cs" />
     <Compile Include="TelemetrySystem\TelemetryClient.cs" />
     <Compile Include="TelemetrySystem\TelemetryDiagnosticControls.cs" />
     <Compile Include="TirePressureMonitoringSystem\Alarm.cs" />
